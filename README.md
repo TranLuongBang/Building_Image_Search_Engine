@@ -19,6 +19,6 @@ Specific techniques that the students will learn:
 
 - Representing words and sentences with vector embeddings (Word2Vec, GloVe, and BERT)
 
-**Result: 3nd Winner Team**
+**Result: 3rd Winner Team**
 
  
